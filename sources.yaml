@@ -1,0 +1,19 @@
+feeds:
+  - https://www.stack3d.com/feed
+  - https://barbend.com/feed
+  - https://www.bodybuilding.com/rss/articles
+  - https://www.nutraceuticalbusinessreview.com/rss
+  - https://supplementreviews.com/feed
+keywords:
+  - "protein"
+  - "creatine"
+  - "pre-workout"
+  - "supplement"
+  - "fat burner"
+  - "vitamin"
+domain_affiliates:
+  amazon.com: "tag=YOURTAG-20"
+  bodybuilding.com: "affid=YOURID"
+  myprotein.com: "aff=YOURID"
+  iherb.com: "affid=YOURID"
+  gnc.com: "aff=YOURID"
